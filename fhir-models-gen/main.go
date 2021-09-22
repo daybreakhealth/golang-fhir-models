@@ -1,4 +1,4 @@
-// Copyright 2019 The Samply Development Community
+// Copyright 2019 Daybreak Health
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/samply/golang-fhir-models/fhir-models-gen/cmd"
+import "github.com/daybreakhealth/golang-fhir-models/fhir-models-gen/cmd"
 
 func main() {
 	cmd.Execute()

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/dave/jennifer/jen"
-	"github.com/samply/golang-fhir-models/fhir-models-gen/fhir"
+	"github.com/daybreakhealth/golang-fhir-models/fhir-models-gen/fhir"
 	"strings"
 )
 
