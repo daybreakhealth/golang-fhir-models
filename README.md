@@ -1,6 +1,6 @@
 # Golang FHIR Models
 
-This repository contains a FHIR® R4 models for Go. The models consist of Go structs for each resource and data type. The structs are suitable for JSON encoding/decoding. 
+This repository contains a FHIR® R4 models for Go. The models consist of Go structs for each resource and data type. The structs are suitable for JSON encoding/decoding.
 
 ## Features
 
@@ -15,8 +15,8 @@ In your project, import `github.com/daybreakhealth/golang-fhir-models/fhir-model
 
 ## TODOs
 
-* [Support Polymorphic Data Elements](https://github.com/daybreakhealth/golang-fhir-models/issues/1)
-* [Support ValueSets Referring to Multiple CodeSystems](https://github.com/daybreakhealth/golang-fhir-models/issues/2)
+* [Support Polymorphic Data Elements](https://github.com/samply/golang-fhir-models/issues/1)
+* [Support ValueSets Referring to Multiple CodeSystems](https://github.com/samply/golang-fhir-models/issues/2)
 
 ## Develop
 
