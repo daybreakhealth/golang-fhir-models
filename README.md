@@ -1,4 +1,4 @@
-# Golang FHIR Models Hi Obi
+# Golang FHIR Models
 
 This repository contains a FHIR® R4 models for Go. The models consist of Go structs for each resource and data type. The structs are suitable for JSON encoding/decoding.
 
